@@ -5,8 +5,8 @@ import pandas
 import smtplib
 
 # email vars
-my_email = "harryezclap@gmail.com"
-password = "Alisha20"
+my_email = ""
+password = ""
 # Date vars
 now = dt.datetime.now()
 year = now.year
